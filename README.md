@@ -43,3 +43,6 @@ Dataset: Included bookings with details on arrivals and cancellations.
 
 -Identified key trends and patterns in booking cancellations, contributing to improved retention strategies.
 
+=======
+# KumarMhaske-Hotel-Booing-Analysis-Using-PowerBI
+
